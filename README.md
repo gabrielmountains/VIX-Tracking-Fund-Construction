@@ -1,7 +1,5 @@
 <h1>VIX Tracking Fund Construction - Creating an optimized ETF to track the VIX Index</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 
 <h3>Project Overview:</h3>
