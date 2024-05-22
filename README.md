@@ -12,7 +12,7 @@
 
 <h4>Sources:</h4> Utilized Yahoo Finance to gather daily Open-High-Low-Close (OHLC) data for both the VIX index and the SPY (S&P 500 ETF), for understanding market and volatility.
 
-<h4>Adjustments:</h4> Distinguished between closing prices and adjusted closing prices, the latter of which accounts for dividends, stock splits, etc., oZering a truer reflection of stock value over time.
+<h4>Adjustments:</h4> Distinguished between closing prices and adjusted closing prices, the latter of which accounts for dividends, stock splits, etc., offering a truer reflection of stock value over time.
 
 <h3>Data Cleaning:</h3>
 
