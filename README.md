@@ -1,4 +1,4 @@
-<h1>VIX Tracking Fund Construction - Creating an Optimized ETFx</h1>
+<h1>VIX Tracking Fund Construction - Creating an Optimized ETF</h1>
 
 <h2>Description</h2>
 
