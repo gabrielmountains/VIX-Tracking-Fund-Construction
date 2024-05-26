@@ -71,7 +71,7 @@ Explore strategies for model validation using in-sample (training) and out-of-sa
 
 <h5>Global Volatility Instruments:</h5> Explore incorporating volatility instruments from global markets to diversify exposure beyond the US market.
 
-<h5>Derivatives and Structured Products:</h5> Consider the use of options, futures, and structured products to gain exposure to volatility in a more capital-eZicient manner. This includes exploring VIX options and futures for direct exposure.
+<h5>Derivatives and Structured Products:</h5> Consider the use of options, futures, and structured products to gain exposure to volatility in a more capital-efficient manner. This includes exploring VIX options and futures for direct exposure.
 <br />
 
 
