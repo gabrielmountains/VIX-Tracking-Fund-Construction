@@ -77,45 +77,72 @@ Explore strategies for model validation using in-sample (training) and out-of-sa
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-- <b>SQL</b>
-- <b>Libraries: pandas, numpy, scikitlearn, seaborn, keras, tensorflow, pytorch</b>
-- <b>Models: Multivariate Regression, Random Forest, XGBoost, Gradient Boosting, Neural Newtowrks (LSTM), Transformers</b>
-
-<h2>Environments Used </h2>
-
-- <b>Kaggle and Google Colab</b>
+- Python 
+- Excel
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left">
+
+<img src="https://imgur.com/2w41vm2.png" height="80%" width="80%" alt="VIX"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/AQolJTV.png" height="80%" width="80%" alt="VIX"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hzv3Vn1.png" height="80%" width="80%" alt="VIX"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RYU9DCz.png" height="80%" width="80%" alt="VIX"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kQsBLqg.png" height="80%" width="80%" alt="VIX"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://imgur.com/9wGkj17.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/PTgLEQp.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/zKR2oW8.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/7CKSZkZ.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/oIAhjLI.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/MvJPScj.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/jSz9FLX.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/WRn2Agz.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/DuZHj0M.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/KkaBNt1.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/aJGBrg7.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/Ll9BgTk.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/FNECQ9v.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
+<img src="https://imgur.com/3zqWP1o.png" height="80%" width="80%" alt="VIX"/>
+<br />
+<br />
 
 <!--
  ```diff
